@@ -16,15 +16,15 @@ const Hero = () => {
     <div className="">
 
       <div className="flex flex-col pt-[30px] ">
-        <h1 className="flex justify-center 2xl:text-[72px] text-center sm:text-[55px] lg:pl-[600px] lg:pr-[600px] text-[50px] font-extrabold pt-[80px] pl-[200px] pr-[200px]">
+        <h1 className="flex justify-center text-center md:text-[45px] sm:pl-[50px] sm:pr-[50px] pt-[80px] text-[28px] font-bold pl-5 pr-5">
           Exploring Your Automotive Dreams with RoadRome
         </h1>
 
-        <p className="flex justify-center text-[22px] text-center text-black-100  pl-[250px] pr-[250px] pt-5">
+        <p className="flex justify-center text-[16px] text-center text-black-100 sm:text-[16px] sm:pl-[100px] sm:pr-[100px] md:text-[20px] pl-[50px] pr-[50px] pt-5">
           We make it possible for you to explore and choose your dream car with confidence
         </p>
 
-        <div className="flex justify-center pt-[50px]">
+        <div className="flex justify-center pt-9">
           <button onClick={handleScroll} className=" w-[150px] p-2  pl-4 pr-4 rounded-full text-white bg-black">
             Explore Cars
           </button>
