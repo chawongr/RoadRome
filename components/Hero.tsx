@@ -13,7 +13,7 @@ const Hero = () => {
   }
   return (
 
-    <div className="bg-rose-500">
+    <div className="">
 
       <div className="flex flex-col pt-[30px] ">
         <h1 className="flex justify-center 2xl:text-[72px] text-center sm:text-[55px] lg:pl-[600px] lg:pr-[600px] text-[50px] font-extrabold pt-[80px] pl-[200px] pr-[200px]">
