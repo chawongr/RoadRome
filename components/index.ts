@@ -8,7 +8,7 @@ import SearchManufacturer from "./SearchManufacturer"
 import CarCard from "./CarCard"
 import CarDetails from "./CarDetails"
 import ShowMore from "./ShowMore"
-import Catalogue from "./Catalogue"
+import Catalogue from "../app/catalogue/page"
 
 export {
     Hero,
@@ -21,5 +21,5 @@ export {
     CarCard,
     CarDetails,
     ShowMore,
-    Catalogue
+    Catalogue,
 }

@@ -1,13 +1,15 @@
 'use client'
 
-import { Hero, Catalogue } from '@/components'
+import { Hero, Catalogue, Navbar, Footer } from '@/components'
+import Link from "next/link";
 
-export default function Home() {
+export default function page() {
 
   return (
     <main className="overflow-hidden">
       <Hero />
-      <Catalogue />
+      {/* <Catalogue /> */}
+      <Footer />
     </main >
   )
 }

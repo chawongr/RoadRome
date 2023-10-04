@@ -16,7 +16,7 @@ const Hero = () => {
     <div className="">
 
       <div className="flex flex-col pt-[30px] ">
-        <h1 className="flex justify-center text-center md:text-[45px] sm:pl-[50px] sm:pr-[50px] pt-[80px] text-[28px] font-bold pl-5 pr-5">
+        <h1 className="flex justify-center text-center md:text-[45px] sm:pl-[50px] sm:pr-[50px] pt-[50px] text-[28px] font-bold pl-5 pr-5">
           Exploring Your Automotive Dreams with RoadRome
         </h1>
 

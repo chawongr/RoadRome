@@ -13,14 +13,18 @@
     "@emotion/styled": "^11.11.0",
     "@headlessui/react": "^1.7.17",
     "@mui/material": "^5.14.11",
+    "framer-motion": "^10.16.4",
     "next": "latest",
     "react": "latest",
-    "react-dom": "latest"
+    "react-dom": "latest",
+    "react-icons": "^4.11.0",
+    "react-scroll": "^1.8.9"
   },
   "devDependencies": {
     "@types/node": "latest",
     "@types/react": "latest",
     "@types/react-dom": "latest",
+    "@types/react-scroll": "^1.8.8",
     "autoprefixer": "latest",
     "postcss": "latest",
     "tailwindcss": "latest",
